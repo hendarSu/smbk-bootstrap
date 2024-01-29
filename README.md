@@ -1,5 +1,7 @@
-# Chapter Layout
-Membahas tentang.
+# Framework Bootstrap
+Days 2 Days Pertemuan : 
+
+## Chapter Layouts
 
 1. Pertemuan Pertama
 - Breakpoint
