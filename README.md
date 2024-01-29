@@ -1,5 +1,5 @@
 # Framework Bootstrap
-Days 2 Days Pertemuan : 
+Day 2 Day Pertemuan : 
 
 ## Chapter Layouts
 
