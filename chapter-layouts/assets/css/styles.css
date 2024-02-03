@@ -9,11 +9,8 @@
     float: left;
 }
 
-
-.section-block img {
-
-}
-
-.img-rounded {
-    
+.block-store {
+    background-color: white !important;
+    padding: 10px;
+    border-radius: 10px;
 }
